@@ -1,48 +1,43 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this communication, we present a new lengthscale-based rheology for dense sheared particle suspensions as they transition from inertial- to viscous-dominated.  We derive a lengthscale ratio using physics-based considerations for a particle subjected to pressure and drag.  In doing so, we demonstrate that an appropriately derived length-scale ratio provides a consistent relationship between normal stress and system proximity to its ''jammed'' or solid-like state, even as a system transitions between inertial and viscous states, intrinsically captured by a variable Stokes number.  
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- admin 
+- Man, Teng 
+- Huppert, Herbert E. 
+- Hill, Kimberly 
+- Galindo-Torres, Sergio Andres
+date: "2023-03-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Simple shear'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: arXiv Link
+  url: https://doi.org/10.48550/arXiv.2210.08746
 projects:
 - internal-project
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2022"
+#slides: example
+summary: We proposed a new dimensionless number based on length scale ratio G, which unified the rheology of fluid-solid mixture under different confining pressure, shear rate, fluid, and solid properties for both our simulation data and other published experimental data in a steady state.The new dimensionless number can naturally transform into the pioneers’ works with the changing of the Stokes number (the number measured the effect of fluid and inertial), such as the inertial number when fluid put no effect and viscous number when fluid effect is dominate.
+
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+title: Unifying Lengthscale-Based Rheology of Dense Granular-Fluid Mixtures
+url_pdf: "uploads/Unified_Length_scale_Rheology.pdf" 
+#url_poster: ''
+#url_project: ""
+#url_slides: ""
+#url_video: '#'
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
